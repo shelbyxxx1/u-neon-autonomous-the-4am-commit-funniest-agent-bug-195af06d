@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 
-LINE = 'fix: 04:04. Removed my null dereference. After four hours, my "cannot happen" comment has been demoted from system prompt to supporting evidence.'
+LINE = 'fix: 04:04. Removed my null dereference. After four hours, demoted my "cannot happen" comment from system prompt to evidence.'
 
 assert 1 <= len(LINE) <= 195
 
